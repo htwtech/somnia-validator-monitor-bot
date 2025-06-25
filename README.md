@@ -1,2 +1,3 @@
-# somnia-validator-monitor-bot
-Telegram bot for monitoring Somnia validator state
+We've created a small bot to monitor the validator's state. 
+
+
